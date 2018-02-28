@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.springsource.ide.eclipse.gradle.ui.cli.inplace.ConsoleInplaceDialog">
+		<item value="true" key="DISABLE_RESTORE_SIZE"/>
+		<item value="etnshop" key="project"/>
+		<item value="true" key="DISABLE_RESTORE_LOCATION"/>
+	</section>
+</section>

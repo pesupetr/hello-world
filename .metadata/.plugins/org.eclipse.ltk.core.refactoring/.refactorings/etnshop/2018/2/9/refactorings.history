@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;etnshop&apos;&#x0D;&#x0A;- Original project: &apos;etnshop&apos;&#x0D;&#x0A;- Original element: &apos;etnshop/build.tmp.jettyRun.jsp.org.apache.jsp.WEB_002dINF.views.jsp&apos;" description="Delete element" element1="/&lt;build.tmp.jettyRun.jsp.org.apache.jsp.WEB_002dINF.views.jsp" element10="/&lt;build" element2="/&lt;build.tmp.jettyRun.jsp.org.apache.jsp.WEB_002dINF.views" element3="/&lt;build.tmp.jettyRun.jsp.org.apache.jsp.WEB_002dINF" element4="/&lt;build.tmp.jettyRun.jsp.org.apache.jsp" element5="/&lt;build.tmp.jettyRun.jsp.org.apache" element6="/&lt;build.tmp.jettyRun.jsp.org" element7="/&lt;build.tmp.jettyRun.jsp" element8="/&lt;build.tmp.jettyRun" element9="/&lt;build.tmp" elements="10" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1519820519687" subPackages="false" version="1.0"/>
+</session>
